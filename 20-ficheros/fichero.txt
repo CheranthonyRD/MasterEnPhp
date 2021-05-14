@@ -1,0 +1,2 @@
+hola soy un fichero
+esto es una segunda linea
